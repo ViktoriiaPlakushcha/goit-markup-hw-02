@@ -71,13 +71,13 @@ button {
 .benefits-item-title {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1,2;
+    line-height: 1.2;
     color: #2E2F42;
 }
 .team {
     background-color: #F4F4FD;
 }
-.team-list {
+.team-list-item {
     background-color: #FFFFFF;
 }
 .section-title {
